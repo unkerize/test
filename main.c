@@ -5,6 +5,7 @@ int main(void)
 
 void setup(void)
 {
+  uint8_t i;
 }
 
 void led_blink(void)
