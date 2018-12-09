@@ -1,5 +1,6 @@
 int main(void)
 {
+  led_blink();
 }
 
 void setup(void)
